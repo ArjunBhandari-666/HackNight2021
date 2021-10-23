@@ -3,45 +3,40 @@
 }
 body {
   font-size: 14px;
-}
-.v1_3 {
-  width: 100%;
-  height: 1080px;
-  background: linear-gradient(rgba(0,255,132,1), rgba(62,251,160,1));
-  opacity: 1;
-  position: relative;
-  top: 0px;
-  left: 0px;
-  overflow: hidden;
-}
-.v1_4 {
   width: 100%;
   height: 100%;
-  background: linear-gradient(rgba(66,255,0,0.4000000059604645), rgba(153,255,117,0.6899999976158142));
+  background: linear-gradient(rgba(0,255,132,1), rgba(62,251,160,1));
+  opacity: 1;
+  overflow: hidden;
+}
+#v1_4 {
+  width: 100%;
+  height: 100%;
+  background: linear-gradient(rgba(66,255,0), rgba(153,255,117));
   opacity: 1;
   position: absolute;
   top: 228px;
   left: 386px;
   border-radius: 50%;
 }
-.name {
+#name {
   color: #fff;
 }
-.v1_6 {
-  width: 907px;
-  height: 154px;
+#SFQ {
+  width: 50%;
+  height: 10%;
   background: rgba(255,255,255,1);
   opacity: 1;
   position: absolute;
-  top: 847px;
-  left: 506px;
+  top: 70%;
+  left: 30%;
   border-top-left-radius: 119px;
   border-top-right-radius: 119px;
   border-bottom-left-radius: 119px;
   border-bottom-right-radius: 119px;
   overflow: hidden;
 }
-.v1_7 {
+#v1_7 {
   width: 899px;
   color: rgba(0,0,0,1);
   position: absolute;
@@ -53,7 +48,7 @@ body {
   opacity: 1;
   text-align: center;
 }
-.v1_8 {
+#v1_8 {
   width: 383px;
   height: 120px;
   background: rgba(255,255,255,1);
@@ -67,7 +62,7 @@ body {
   border-bottom-right-radius: 50px;
   overflow: hidden;
 }
-.v1_9 {
+#v1_9 {
   width: 383px;
   height: 120px;
   background: rgba(255,255,255,1);
@@ -81,7 +76,7 @@ body {
   border-bottom-right-radius: 50px;
   overflow: hidden;
 }
-.v1_10 {
+#v1_10 {
   width: 383px;
   height: 120px;
   background: rgba(255,255,255,1);
@@ -90,7 +85,7 @@ body {
   top: 23px;
   left: 477px;
 }
-.v1_11 {
+#v1_11 {
   width: 383px;
   color: rgba(0,0,0,1);
   position: absolute;
@@ -102,7 +97,7 @@ body {
   opacity: 1;
   text-align: center;
 }
-.v1_12 {
+#v1_12 {
   width: 383px;
   color: rgba(0,0,0,1);
   position: absolute;
@@ -114,7 +109,7 @@ body {
   opacity: 1;
   text-align: center;
 }
-.v1_13 {
+#v1_13 {
   width: 383px;
   color: rgba(0,0,0,1);
   position: absolute;
@@ -126,7 +121,7 @@ body {
   opacity: 1;
   text-align: center;
 }
-.v1_14 {
+#v1_14 {
   width: 158px;
   height: 170px;
   background: url("../images/v1_14.png");
@@ -139,7 +134,7 @@ body {
   left: 93px;
   overflow: hidden;
 }
-.v1_15 {
+#v1_15 {
   width: 791px;
   height: 538px;
   background: url("../images/v1_15.png");
