@@ -9,7 +9,7 @@ body {
   opacity: 1;
   overflow: hidden;
 }
-.v1_4 {
+#v1_4 {
   width: 100%;
   height: 100%;
   background: linear-gradient(rgba(66,255,0,0.4000000059604645), rgba(153,255,117,0.6899999976158142));
@@ -19,10 +19,10 @@ body {
   left: 386px;
   border-radius: 50%;
 }
-.name {
+#name {
   color: #fff;
 }
-.v1_6 {
+#v1_6 {
   width: 907px;
   height: 154px;
   background: rgba(255,255,255,1);
@@ -36,7 +36,7 @@ body {
   border-bottom-right-radius: 119px;
   overflow: hidden;
 }
-.v1_7 {
+#v1_7 {
   width: 899px;
   color: rgba(0,0,0,1);
   position: absolute;
@@ -48,7 +48,7 @@ body {
   opacity: 1;
   text-align: center;
 }
-.v1_8 {
+#v1_8 {
   width: 383px;
   height: 120px;
   background: rgba(255,255,255,1);
@@ -62,7 +62,7 @@ body {
   border-bottom-right-radius: 50px;
   overflow: hidden;
 }
-.v1_11 {
+#v1_11 {
   width: 383px;
   color: rgba(0,0,0,1);
   position: absolute;
@@ -74,7 +74,7 @@ body {
   opacity: 1;
   text-align: center;
 }
-.v1_9 {
+#v1_9 {
   width: 383px;
   height: 120px;
   background: rgba(255,255,255,1);
@@ -88,7 +88,7 @@ body {
   border-bottom-right-radius: 50px;
   overflow: hidden;
 }
-.v1_12 {
+#v1_12 {
   width: 383px;
   color: rgba(0,0,0,1);
   position: absolute;
@@ -100,7 +100,7 @@ body {
   opacity: 1;
   text-align: center;
 }
-.v1_10 {
+#v1_10 {
   width: 383px;
   height: 120px;
   background: rgba(255,255,255,1);
@@ -109,7 +109,7 @@ body {
   top: 23px;
   left: 477px;
 }
-.v1_13 {
+#v1_13 {
   width: 383px;
   color: rgba(0,0,0,1);
   position: absolute;
