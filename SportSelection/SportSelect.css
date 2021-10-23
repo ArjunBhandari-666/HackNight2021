@@ -3,200 +3,95 @@
 }
 body {
   font-size: 14px;
-}
-.v12_67 {
   width: 100%;
-  height: ;
-  background: rgba(128,241,159,1);
-  opacity: 1;
-  position: relative;
-  top: 0px;
-  left: 0px;
-  overflow: hidden;
-}
-.badminton {
-  width: 960px;
   height: 100%;
-  background: rgba(237,255,232,1);
-  opacity: 1;
-  position: absolute;
-  top: 0px;
-  left: 960px;
+  background: rgba(128,241,159,1);
   overflow: hidden;
 }
-.v16_16 {
-  width: 401px;
-  height: 300px;
-  background: rgba(237,255,232,1);
-  opacity: 1;
+#half
+{
+  width:50%;
+  height:100%;
+  left:50%;
+  top:0%;
+  background-color:#EDFFE8;
   position: absolute;
-  top: 175px;
-  left: 63px;
-  overflow: hidden;
 }
-.v16_37 {
-  width: 401px;
-  height: 300px;
-  background: rgba(237,255,232,1);
-  opacity: 1;
+#Box1
+{
+  width:20%;
+  height:30%;
+  top:15%;
+  left:0%;
+  background-color:#EDFFE8;
   position: absolute;
-  top: 604px;
-  left: 63px;
-  overflow: hidden;
 }
-.v16_28 {
-  width: 402px;
-  height: 300px;
-  background: rgba(237,255,232,1);
-  opacity: 1;
+#Box2
+{
+  width:20%;
+  height:30%;
+  top:55%;
+  left:0%;
+  background-color:#EDFFE8;
   position: absolute;
-  top: 175px;
-  left: 527px;
-  overflow: hidden;
 }
-.v16_38 {
-  width: 402px;
-  height: 300px;
-  background: rgba(237,255,232,1);
-  opacity: 1;
+#Box3
+{
+  width:20%;
+  height:30%;
+  top:15%;
+  left:27%;
+  background-color:#EDFFE8;
   position: absolute;
-  top: 604px;
-  left: 527px;
-  overflow: hidden;
 }
-.v16_30 {
-  width: 402px;
-  height: 300px;
-  background: rgba(128,241,160,1);
-  opacity: 1;
+#Box4
+{
+  width:20%;
+  height:30%;
+  top:55%;
+  left:27%;
+  background-color:#EDFFE8;
   position: absolute;
-  top: 175px;
-  left: 990px;
-  overflow: hidden;
 }
-.v16_39 {
-  width: 402px;
-  height: 300px;
-  background: rgba(128,241,160,1);
-  opacity: 1;
+#Box5
+{
+  width:20%;
+  height:30%;
+  top:15%;
+  left:53%;
+  background-color:rgba(128,241,159,1);
   position: absolute;
-  top: 604px;
-  left: 990px;
-  overflow: hidden;
 }
-.v16_32 {
-  width: 401px;
-  height: 300px;
-  background: rgba(128,241,160,1);
-  opacity: 1;
+#Box6
+{
+  width:20%;
+  height:30%;
+  top:55%;
+  left:53%;
+  background-color:rgba(128,241,159,1);
   position: absolute;
-  top: 175px;
-  left: 1455px;
-  overflow: hidden;
 }
-.v16_40 {
-  width: 401px;
-  height: 300px;
-  background: rgba(128,241,160,1);
-  opacity: 1;
+#Box7
+{
+  width:20%;
+  height:30%;
+  top:15%;
+  left:80%;
+  background-color:rgba(128,241,159,1);
   position: absolute;
-  top: 604px;
-  left: 1455px;
-  overflow: hidden;
 }
-.cricket {
-  width: 400px;
-  color: rgba(0,0,0,1);
+#Box8
+{
+  width:20%;
+  height:30%;
+  top:55%;
+  left:80%;
+  background-color:rgba(128,241,159,1);
   position: absolute;
-  top: 96px;
-  left: 64px;
-  font-family: Montserrat;
-  font-weight: Medium;
-  font-size: 48px;
-  opacity: 1;
+}
+h1
+{
   text-align: center;
-}
-.hockey {
-  width: 400px;
-  color: rgba(0,0,0,1);
+  try
   position: absolute;
-  top: 904px;
-  left: 64px;
-  font-family: Montserrat;
-  font-weight: Medium;
-  font-size: 48px;
-  opacity: 1;
-  text-align: center;
-}
-.soccer {
-  width: 401px;
-  color: rgba(0,0,0,1);
-  position: absolute;
-  top: 96px;
-  left: 528px;
-  font-family: Montserrat;
-  font-weight: Medium;
-  font-size: 48px;
-  opacity: 1;
-  text-align: center;
-}
-.tennis{
-  width: 401px;
-  color: rgba(0,0,0,1);
-  position: absolute;
-  top: 904px;
-  left: 528px;
-  font-family: Montserrat;
-  font-weight: Medium;
-  font-size: 48px;
-  opacity: 1;
-  text-align: center;
-}
-.rugby {
-  width: 401px;
-  color: rgba(0,0,0,1);
-  position: absolute;
-  top: 96px;
-  left: 991px;
-  font-family: Montserrat;
-  font-weight: Medium;
-  font-size: 48px;
-  opacity: 1;
-  text-align: center;
-}
-.badmintontext {
-  width: 401px;
-  color: rgba(0,0,0,1);
-  position: absolute;
-  top: 904px;
-  left: 991px;
-  font-family: Montserrat;
-  font-weight: Medium;
-  font-size: 48px;
-  opacity: 1;
-  text-align: center;
-}
-.tabletennis {
-  width: 400px;
-  color: rgba(0,0,0,1);
-  position: absolute;
-  top: 904px;
-  left: 1456px;
-  font-family: Montserrat;
-  font-weight: Medium;
-  font-size: 48px;
-  opacity: 1;
-  text-align: center;
-}
-.chess {
-  width: 400px;
-  color: rgba(0,0,0,1);
-  position: absolute;
-  top: 96px;
-  left: 1456px;
-  font-family: Montserrat;
-  font-weight: Medium;
-  font-size: 48px;
-  opacity: 1;
-  text-align: center;
 }
