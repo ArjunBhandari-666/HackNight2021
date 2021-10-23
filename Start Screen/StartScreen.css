@@ -14,8 +14,8 @@ body {
   background: linear-gradient(rgba(66,255,0,0.4000000059604645), rgba(153,255,117,0.6899999976158142));
   opacity: 1;
   position: absolute;
-  top:  60%;
-  left:  20%;
+  top:  50%;
+  left:  10%;
   border-radius: 50%;
 }
 #name {
@@ -27,8 +27,8 @@ body {
   background: rgba(255,255,255,1);
   opacity: 1;
   position: absolute;
-  top:  10%;
-  left:  10%;
+  top:  70%;
+  left:  50%;
   border-radius:4%;
   overflow: hidden;
 }
@@ -77,7 +77,7 @@ body {
   opacity: 1;
   position: absolute;
   top: 5%;
-  left:  50%;
+  left:  53%;
   border-radius: 8%;
   overflow: hidden;
 }
@@ -86,7 +86,7 @@ body {
   color: rgba(0,0,0,1);
   position: absolute;
   top:  5%;
-  left:  50%;
+  left:  53%;
   font-family: Montserrat;
   font-weight: Medium;
   font-size: 40px;
