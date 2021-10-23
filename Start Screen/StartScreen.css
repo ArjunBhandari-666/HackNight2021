@@ -8,6 +8,11 @@ body {
   background: linear-gradient(rgb(0,255,132), rgb(62,251,160));
   overflow: hidden;
 }
+#line
+{
+  height:2%;
+  color:black;
+}
 #bottomcircle {
   width:  80%;
   height: 100%;
