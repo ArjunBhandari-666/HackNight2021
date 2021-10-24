@@ -1,2 +1,2 @@
 # HackNight2021
-Flutter Healthcare app for the aged.
+Entertainment games based on audio and video, redirected by a website.
