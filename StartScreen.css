@@ -1,0 +1,42 @@
+.fh
+{
+    width:50%;
+    height:100%;
+    left:0%;
+    top:0%;
+    background-color: orange;
+    position: absolute;
+}
+.sh
+{
+    width:50%;
+    height:100%;
+    left:50%;
+    top:0%;
+    background-color: orangered;
+    position: absolute;
+}
+h2{
+    margin-top: 20%;
+    text-align: center;
+}
+.Snake
+{
+    position: absolute;
+    width:40%;
+    height:40%;
+    background-color: orangered;
+    margin-left: 30%;;
+}
+.Nose
+{
+    position: absolute;
+    width:40%;
+    height:40%;
+    background-color: orange;
+    margin-left: 30%;;
+}
+img{
+    width:100%;
+    height:auto;
+}
