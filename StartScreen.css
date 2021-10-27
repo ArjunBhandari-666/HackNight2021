@@ -4,7 +4,7 @@
     height:100%;
     left:0%;
     top:0%;
-    background-color: blue;
+    background-color: orange; 
     position: absolute;
 }
 .sh
@@ -13,7 +13,7 @@
     height:100%;
     left:50%;
     top:0%;
-    background-color: white;
+    background-color: orangered;
     position: absolute;
 }
 h2{
