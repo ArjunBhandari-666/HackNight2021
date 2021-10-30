@@ -19,8 +19,8 @@ video = createCapture(VIDEO);
   video.size(windowWidth, windowHeight)
 video.hide();
   score[s]=0;
-x=random(255);
-  y=random(255);
+x=random(windowWidth);
+  y=random(windowHeight);
 poseNet = ml5.poseNet(video, modelReady);
 poseNet.on('pose', gotPoses);
   
@@ -64,8 +64,8 @@ if (pose){
 circle(nose.x,nose.y,30)
   if(nose.x-25<x&&x<nose.x+25&&nose.y-25<y&&y<nose.y+25)
     {
-      x=random(255);
-      y=random(255);
+      x=random(windowWidth);
+      y=random(windowHeight);
       score[s]++;
     }
   }
